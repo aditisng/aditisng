@@ -1,7 +1,1 @@
-- 👋 Hi, I’m Aditi Singh
-- 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning java, selenium
-- 💞️ 
-- 📫 How to reach me by email
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
